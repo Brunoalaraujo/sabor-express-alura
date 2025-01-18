@@ -35,7 +35,7 @@ Para configurar o projeto localmente, siga os passos abaixo:
 3. Acesse o diretório do projeto:
 
    ```bash
-   cd nome-do-projeto
+   cd sabor-express-alura
    ```
 
 ---
@@ -47,7 +47,7 @@ Para executar o programa, abra o terminal, navegue até o diretório onde está 
 1. Execute o script principal:
 
    ```bash
-   python main.py
+   python app.py
    ```
 
 2. Siga as instruções exibidas no terminal para cadastrar e gerenciar restaurantes.
