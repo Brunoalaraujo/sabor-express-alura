@@ -29,7 +29,7 @@ Para configurar o projeto localmente, siga os passos abaixo:
 2. Clone o repositório:
 
    ```bash
-   git clone https://github.com/usuario/nome-do-projeto.git
+   git clone https://github.com/Brunoalaraujo/sabor-express-alura
    ```
 
 3. Acesse o diretório do projeto:
